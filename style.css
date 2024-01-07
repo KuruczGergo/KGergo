@@ -1,0 +1,62 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+.piros {
+    width: 100%;
+    height: 250px;
+    background-color: red;
+}
+
+.feher {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+}
+
+.zold {
+    width: 100%;
+    height: 250px;
+    background-color: green;
+}
+
+table {
+    width: 900px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: black;
+    
+}
+
+#collage {
+    width: 900px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr {
+    background-color: white;
+}
